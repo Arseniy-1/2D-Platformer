@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\assets\\scripts\\player\\collisionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\collisionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\assets\\scripts\\player\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\assets\\scripts\\player\\healthview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\healthview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\assets\\scripts\\player\\playerattacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerattacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\assets\\scripts\\player\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|e:\\workprogramm\\unity\\unityproject\\ijun\\2d-platformer\\2d platformer\\assets\\scripts\\player\\walletview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\walletview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\assets\\scripts\\ipickeble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ipickeble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\assets\\scripts\\heal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\heal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\assets\\scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\assets\\scripts\\cameramover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameramover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\assets\\scripts\\enemy\\enemymover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemymover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\assets\\scripts\\enemy\\enemydetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemydetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\assets\\scripts\\enemy\\eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\assets\\scripts\\player\\playermover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|e:\\workprogramm\\unity\\unityproject\\ijun\\2d-platformer\\2d platformer\\assets\\scripts\\exitzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exitzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\assets\\scripts\\idamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDD9D92-DC19-2903-8FF9-21A6835B19EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\idamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ExitZone.cs",
+              "DocumentMoniker": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\Assets\\Scripts\\ExitZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ExitZone.cs",
+              "ToolTip": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\Assets\\Scripts\\ExitZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ExitZone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T05:46:38.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WalletView.cs",
+              "DocumentMoniker": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\Assets\\Scripts\\Player\\WalletView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\WalletView.cs",
+              "ToolTip": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\Assets\\Scripts\\Player\\WalletView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\WalletView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T05:45:46.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Wallet.cs",
+              "DocumentMoniker": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\Assets\\Scripts\\Player\\Wallet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Wallet.cs",
+              "ToolTip": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\Assets\\Scripts\\Player\\Wallet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Wallet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T05:45:45.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPickeble.cs",
+              "DocumentMoniker": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\Assets\\Scripts\\IPickeble.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IPickeble.cs",
+              "ToolTip": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\Assets\\Scripts\\IPickeble.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IPickeble.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA6wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T05:45:28.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Heal.cs",
+              "DocumentMoniker": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\Assets\\Scripts\\Heal.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Heal.cs",
+              "ToolTip": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\Assets\\Scripts\\Heal.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Heal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T05:45:10.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\Assets\\Scripts\\Coin.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Coin.cs",
+              "ToolTip": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\Assets\\Scripts\\Coin.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Coin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T05:45:05.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CameraMover.cs",
+              "DocumentMoniker": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\Assets\\Scripts\\CameraMover.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraMover.cs",
+              "ToolTip": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\Assets\\Scripts\\CameraMover.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraMover.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T05:44:57.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EnemyMover.cs",
+              "DocumentMoniker": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\Assets\\Scripts\\Enemy\\EnemyMover.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyMover.cs",
+              "ToolTip": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\Assets\\Scripts\\Enemy\\EnemyMover.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyMover.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T05:33:14.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EnemyDetector.cs",
+              "DocumentMoniker": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\Assets\\Scripts\\Enemy\\EnemyDetector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyDetector.cs",
+              "ToolTip": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\Assets\\Scripts\\Enemy\\EnemyDetector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyDetector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T05:33:05.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HealthView.cs",
+              "DocumentMoniker": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\Assets\\Scripts\\Player\\HealthView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\HealthView.cs",
+              "ToolTip": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\Assets\\Scripts\\Player\\HealthView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\HealthView.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T05:32:30.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Health.cs",
+              "DocumentMoniker": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\Assets\\Scripts\\Player\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Health.cs",
+              "ToolTip": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\Assets\\Scripts\\Player\\Health.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Health.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T20:38:07.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CollisionHandler.cs",
+              "DocumentMoniker": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\Assets\\Scripts\\Player\\CollisionHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\CollisionHandler.cs",
+              "ToolTip": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\Assets\\Scripts\\Player\\CollisionHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\CollisionHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T20:35:43.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Eagle.cs",
+              "DocumentMoniker": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\Assets\\Scripts\\Enemy\\Eagle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Eagle.cs",
+              "ToolTip": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\Assets\\Scripts\\Enemy\\Eagle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Eagle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T20:23:18.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IDamageable.cs",
+              "DocumentMoniker": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\Assets\\Scripts\\IDamageable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IDamageable.cs",
+              "ToolTip": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\Assets\\Scripts\\IDamageable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IDamageable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T20:23:14.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlayerMover.cs",
+              "DocumentMoniker": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\Assets\\Scripts\\Player\\PlayerMover.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMover.cs",
+              "ToolTip": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\Assets\\Scripts\\Player\\PlayerMover.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMover.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:26:34.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player.cs",
+              "ToolTip": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T10:58:47.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerAttacker.cs",
+              "DocumentMoniker": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\Assets\\Scripts\\Player\\PlayerAttacker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerAttacker.cs",
+              "ToolTip": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\2D-Platformer\\2D Platformer\\Assets\\Scripts\\Player\\PlayerAttacker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerAttacker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:20:23.664Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
